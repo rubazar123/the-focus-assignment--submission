@@ -1,0 +1,241 @@
+body {
+	font-family: 'Raleway', sans-serif;
+	margin-left: 0px;
+	padding-bottom: 0px;
+}
+
+h2 {
+	font-family: 'Pacifico', cursive;
+	font-size: 60pt;
+	text-align: center;
+	padding-top: 0px;
+	margin-top: -650px;
+}
+
+h3 {
+	font-family: 'Raleway', sans-serif;
+	font-weight: 300;
+	font-size: 36pt;
+	text-align: center;
+}
+
+#downarrow {
+	margin-left: 50%;
+	margin-right: 50%;
+}
+
+#heading1, #heading2, #heading3, #heading4 {
+	font-family: 'Raleway', sans-serif;
+	font-weight: 600;
+	font-size: 22pt;
+}
+
+#para1, #para2, #para3, #para4 {
+	font-family: 'Raleway', sans-serif;
+	width: 420px;
+	font-size: 16pt;
+	color: #848484;
+}
+
+#iphone {
+	margin-top: 5px;
+	margin-left: 590px;
+}
+
+#blackdot {
+	margin-left: -165px;
+	margin-bottom: 340px;
+}
+
+#cursor {
+	margin-left: -145px;
+	margin-bottom: 335px;
+}
+
+#angled-line {
+	margin-bottom: 250px;
+	margin-left: -20px;
+}
+
+#whitedot1 {
+	margin-left: -40px;
+	margin-bottom: 595px;
+}
+
+#whitedot2 {
+	margin-left: -200px;
+	margin-bottom: 500px;
+}
+
+#whitedot3 {
+	margin-left: -30px;
+	margin-bottom: 250px;
+}
+
+#wholepara1 {
+	margin-top: -447px;
+	margin-left: 205px;
+}
+
+#wholepara2 {
+	margin-top: -150px;
+	margin-left: 1065px;
+}
+
+#wholepara3 {
+	margin-top: 40px;
+	margin-left: 205px;
+}
+
+#wholepara4 {
+	margin-top: -150px;
+	margin-left: 1065px;
+}
+
+#container-section-2 {
+	padding-bottom: 165px;
+}
+
+#section3 {
+	background-color: #EAEDED;
+	padding-top: 20px;
+	padding-bottom: 75px;
+	padding-left: 210px;
+}
+
+h4 {
+	font-family: 'Raleway', sans-serif;
+	font-size: 22pt;
+	font-weight: 600;
+}
+
+#gettheapp-p {
+	width: 535px;
+	font-size: 16pt;
+	color: #848484;
+	font-family: 'Raleway', sans-serif;
+	margin-bottom: -65px;
+}
+
+#play {
+	margin-left: -480px;
+	margin-bottom: 10px;	
+}
+
+#video-bar {
+	margin-bottom: 10px;
+}
+
+#video-box {
+	text-align: center;
+	margin-right: -450px;
+	margin-top: -286px;
+}
+
+#cursor-section3 {
+	margin-left: -40px;
+	margin-bottom: 5px;
+}
+
+#apple-icon {
+	margin-top: 85px;
+}
+
+h5 {
+	font-family: 'Raleway', sans-serif;
+	font-size: 24pt;
+	font-weight: normal;
+	text-align: center;
+}
+
+#from {
+	font-family: 'Raleway', sans-serif;
+	font-size: 14pt;
+	font-weight: normal;
+	text-align: center;
+}
+
+span {
+	font-weight: 600;
+}
+
+#people-banner {
+	padding-bottom: 0px;
+	padding-top: 0px;
+	margin-bottom: -175px;
+}
+
+#person {
+	margin-left: 914px;
+	margin-top: -80px;
+}
+
+h6 {
+	font-family: 'Raleway', sans-serif;
+	font-size: 24pt;
+	font-weight: 600;
+	text-align: center;
+	padding-top: 120px;
+	padding-bottom: 0px;
+}
+
+#final-sentence {
+	font-family: 'Raleway', sans-serif;
+	font-size: 16pt;
+	color: #848484;
+	margin-top: -50px;
+	text-align: center;
+}
+
+#social-media {
+	text-align: center;
+	margin-left: 120px;
+	padding-bottom: 28px;
+}
+
+#twitter {
+	margin-left: -115px;
+	padding-right: 10px;
+}
+
+#facebook {
+	padding-right: 15px;
+	padding-left: 5px;
+}
+
+#pinterest {
+	padding-right: 45px;
+}
+
+#google {
+	padding-right: 15px;
+	padding-left: 10px;
+}
+
+#linkedin {
+	padding-right: 15px;
+}
+
+#cursor4 {
+	margin-left: -70px;
+	padding-right: 10px;
+}
+
+
+#foot {
+	background-color: #EAEDED;
+	padding-top: 55px;
+	padding-bottom: 55px;
+	padding-left: 510px;
+}
+
+ul {
+	font-family: 'Raleway', sans-serif;
+	font-size: 14pt;
+	color: #848484;
+	display: inline-block;
+}
+
+ol {
+	margin-left: -60px;
+}
